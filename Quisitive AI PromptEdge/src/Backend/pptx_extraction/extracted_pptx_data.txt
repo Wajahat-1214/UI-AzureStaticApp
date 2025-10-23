@@ -1,0 +1,1259 @@
+Starting PowerPoint Extraction...
+
+
+--- Extracting Text and Font Properties ---
+
+Slide 1:
+  Paragraph: Postman
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Microsoft Dynamics 365 - Finance & Operations, Budgetary Price Estimate
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 1
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 2:
+  Paragraph: Quisitive at a Glance
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 1000+
+    Font Size: 40.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Customers annually
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 17
+    Font Size: 40.0
+    Font Color: Default
+    Bold: True
+  Paragraph: resource hubs
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: ≈800
+    Font Size: 40.0
+    Font Color: Default
+    Bold: True
+  Paragraph: team members
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Covers the entire
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Microsoft Cloud
+    Font Size: 25.0
+    Font Color: Default
+    Bold: True
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: TSXV: QUIS | OTCQX: QUISF
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: A Premier Global Microsoft Partner
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 2
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 3:
+  Paragraph: Why Quisitive?
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: Business Outcome Focused
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph: Microsoft Cloud Experts
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph: World-class NPS scoreof 85
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph:  
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph: Industry Expertise & Solutions 
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph: Global Workforce
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph: for flexible delivery
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Full-Service Partner 
+    Font Size: 26.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Consulting, implementation, licensing, ongoing support
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: M365, Azure, D365
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Consistent, quality delivery 
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: to solve industry challenges
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 3
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 4:
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 2022 Microsoft Inner Circle for Business Applications
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 2022 Microsoft US Health & Life Sciences Partner of the Year
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 2022 Microsoft Healthcare Partner of the Year Finalist
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 2021 Microsoft Healthcare Partner of the Year Winner
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 2020 Microsoft Azure — DevOps Partner of the Year Winner
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 2020 Microsoft Data Analytics Partner of the Year Finalist
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 2019 Microsoft United States Partner of the Year Winner
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 2018 Microsoft United States Partner of the Year Finalist
+    Font Size: 12.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Recent Accolades
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph: *m
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: Quisitive is in the
+    Font Size: 16.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: TOP .01% of all Microsoft Partners
+    Font Size: 34.0
+    Font Color: Default
+    Bold: True
+    Font Size: 26.0
+    Font Color: Default
+    Bold: True
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 12 Advanced Specializations
+    Font Size: 13.0
+    Font Color: Default
+    Bold: Default
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 16 Gold Competencies
+    Font Size: 13.0
+    Font Color: Default
+    Bold: Default
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Why Microsoft Partnership Matters
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Proven Expertise
+    Font Size: 22.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Advanced Specialization partners are rigorously reviewed and require training, certifications and demonstrated customer success. Quisitive is also certified as a FastTrack partner for M365
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Early & Special Access
+    Font Size: 22.0
+    Font Color: Default
+    Bold: True
+  Paragraph: As a top Microsoft partner, Quisitive receives early preview of new technology, as well as special access to Microsoft’s technical resources for support and training. 
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+    Font Size: 15.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Access to Funding Programs
+    Font Size: 22.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Quisitive has access to special funding mechanisms through Microsoft and can help you acquire funding to help more quickly adopt necessary solutions
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 4
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 5:
+  Paragraph: Innovation Across Industries
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Software & High Tech
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Health & Life Sciences
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Public Sector
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Manufacturing
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Energy
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Financial Services
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Retail
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Education
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: 
+  Paragraph: 5
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 6:
+  Paragraph: Our Understanding
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 6
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 7:
+  Paragraph: This Statement of Work by Quisitive outlines the integration of Microsoft Dynamics 365 for Postman, a leading API development platform. The project aims to optimize Postman's business processes including Concept to Market, Prospect to Quote, Record to Report, and Administer to Operate. Through the adoption of Dynamics 365, Postman seeks to enhance project management, CRM, human resources management, and project planning, ultimately driving efficiency and growth.
+    Font Size: 24.0
+    Font Color: 787880
+    Bold: False
+  Paragraph: Executive Summary
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 7
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 8:
+  Paragraph: Postman, a collaboration platform headquartered in San Francisco, is renowned for streamlining API development for over 17 million developers globally. With a commitment to fostering innovation and efficiency, Postman is poised to integrate Microsoft Dynamics 365 solutions, enhancing its business operations and supporting its mission to deliver superior API tools. This document outlines the objectives, scope, and methodology for the successful integration and optimization of essential business processes and modules.
+    Font Size: 24.0
+    Font Color: 787880
+    Bold: False
+  Paragraph: Introduction
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 8
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 9:
+  Paragraph: Operational Inefficiencies: Streamline workflows for improved productivity.
+    Font Size: 24.0
+    Font Color: 787880
+    Bold: False
+  Paragraph: Limited Visibility: Enhance reporting and analytics for better insights.
+    Font Size: 24.0
+    Font Color: 787880
+    Bold: False
+  Paragraph: Scalability Challenges: Implement scalable solutions to support growth.
+    Font Size: 24.0
+    Font Color: 787880
+    Bold: False
+  Paragraph: Customer Relationship Management: Optimize CRM to improve client engagement and satisfaction.
+    Font Size: 24.0
+    Font Color: 787880
+    Bold: False
+  Paragraph: Business Needs and Drivers
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 9
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 10:
+  Paragraph: General Project Scope
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 10
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 11:
+  Paragraph: Process In Scope
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 11
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 12:
+  Paragraph: Application Modules
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 12
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 13:
+  Paragraph: Training In Scope
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 13
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 14:
+  Paragraph: Out of Scope
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 14
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 15:
+  Paragraph: Implementation Approach
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 15
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 16:
+  Paragraph: Implementation Methodology
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: A proven methodology with Integrated tools and project management for smooth Implementation. Sure Step helps us deliver a predictable, on-time and on-budget Microsoft Dynamics 365 implementation that can provide you a quick return on investment and meet your business requirements.
+    Font Size: Default
+    Font Color: 787880
+    Bold: Default
+  Paragraph: 
+  Paragraph: What is Microsoft Dynamics Sure Step?
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 16
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 17:
+  Paragraph: Implementation Methodology
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Implementation Approach 
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: Identify Business Needs
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Define Solution Blueprint
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Build Global template
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Develop & Test Solution
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Data Migration Scripts
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Develop Integration
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Train the Trainers
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: End User Training
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Data Migration for uptake
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Go-Live
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Operations Support
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Train Customer Implementation team
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Implementation Support for other countries
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Create L1 Support team within Customer
+    Font Size: 18.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 17
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 18:
+  Paragraph: Quisitive & Microsoft  – Integrated Delivery Framework
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 
+  Paragraph: Quisitive Implementation Team
+    Font Size: 16.0
+    Font Color: 002060
+    Bold: Default
+  Paragraph: 
+  Paragraph: 18
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 19:
+  Paragraph: Implementation Methodology
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Team Organization
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: Executive Sponsor 
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Business Sponsor
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project IT Sponsor
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Program Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Work Stream Lead     (Finance )
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Work Stream Lead (Project Governance)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Subject Matter Expert (SME)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Subject Matter Expert (SME)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Subject Matter Expert (SME)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Subject Matter Expert (SME)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Executive Sponsor 
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Engagement Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Program Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Delivery Architect
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Functional Consultant (Finance)
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Functional Consultant (Project Governance)
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Technical Lead
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Integration Architect
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Data Migration Architect
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Developers
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Customer
+    Font Size: 14.0
+    Font Color: 002050
+    Bold: True
+  Paragraph: Quisitive
+    Font Size: 14.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Industry – Center of Excellence 
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Work Stream Lead (Project Delivery)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Subject Matter Expert (SME)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Subject Matter Expert (SME)
+    Font Size: 9.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Change Management Lead
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: Training Lead
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Functional Consultant (Project Delivery)
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Steering Committee 
+    Font Size: Default
+    Font Color: Default
+    Bold: True
+  Paragraph: Executive Sponsor 
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Fastrack Architect 
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Customer Success Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Microsoft 
+    Font Size: 14.0
+    Font Color: 7030A0
+    Bold: True
+  Paragraph: Dev Lead
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Technical Architect
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project team Organization
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 19
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 20:
+  Paragraph: Project Team Organization
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: Core Team
+    Font Size: 24.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Executive Sponsor
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Business Sponsor 
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project IT Sponsor
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Program Manager
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Manager
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Work Stream Leads (WSL)
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Subject Matter Experts
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Integration Architect
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Data Migration Architect
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 10%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 10%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 10%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 10%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 100%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 100%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 35%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 50%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 50%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Customer Team
+    Font Size: 24.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Executive Sponsor
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Engagement Manager
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Program Manager - PMO
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Manager
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Delivery Architect (FS, CS)
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Functional Consultants
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Technical Consultants
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Integration Architect
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Data Migration Architect
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 10%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 10%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 10%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 50%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 50%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 100%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 100%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 50%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 50%
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Quisitive Team
+    Font Size: 24.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Developers
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: OD
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Developers
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: OD
+    Font Size: 14.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 20
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 21:
+  Paragraph: Quisitive Project Leadership Team
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Lane Sorgen
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: SVP – Global Business Application
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Executive Sponsor 
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: Ex Microsoft with over 25 years of high-scale project leadership experience.  Focuses on project business drivers and ensures strategic alignment
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: Syed Fahad
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: VP – Global Industry Solution
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Industry – Center of Excellence
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: Ex Microsoft with over 20 years of industry solutions.  Focuses on Industry compliance and ensures the solution delivery is aligned with the industry requirement 
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: Spencer Stern
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Sr. Director – Global Business Application
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Engagement Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: Ex Microsoft with over 20 years of public sector program delivery experience.  Focuses on project business drivers and ensures strategic alignment
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: Peter Lane
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: VP – Client Success
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Account Executive
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph:  
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: TBD
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 21
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 22:
+  Paragraph: Quisitive Project Delivery Team
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Paul Limke
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Sr. Project Manager
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Project Manager
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: TBD
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: Kaushik Ramakrishnan
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: Practice Lead
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Solution Architect
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: TBD
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: TBD
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: TBD
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Delivery Architect
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: TBD
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: TBD
+    Font Size: 12.0
+    Font Color: Default
+    Bold: True
+  Paragraph: TBD
+    Font Size: 10.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: Technical Architect
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph:  
+    Font Size: 11.0
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: TBD
+    Font Size: 10.5
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 22
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 23:
+  Paragraph: Proposal
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: Timeline & Cost Estimates
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 23
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 24:
+  Paragraph: Project Timeline
+    Font Size: 32.0
+    Font Color: 3E3E4B
+    Bold: True
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 24
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+Slide 25:
+  Paragraph: Questions
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+  Paragraph: 
+  Paragraph: 
+  Paragraph: 25
+    Font Size: Default
+    Font Color: Default
+    Bold: Default
+
+--- Extracting Tables ---
+
+Slide 1:
+Slide 2:
+Slide 3:
+Slide 4:
+Slide 5:
+Slide 6:
+Slide 7:
+Slide 8:
+Slide 9:
+Slide 10:
+  Row 1: ['Solution Component', 'Description', 'Key Scope  Assumption']
+  Row 2: ['Languages', 'English', 'Single Language for Implementation']
+  Row 3: ['Sites/Locations', 'Online', 'Quisitive Team will be doing implementation remotely.']
+  Row 4: ['Project Operations Instances', 'Gold, Dev, Test, Production', 'All of instances will be procured through Quisitive CSP offering']
+Slide 11:
+  Row 1: ['Process', 'Process Description']
+  Row 2: ['Concept to Market', 'Involves creating new products and bringing them to market.']
+  Row 3: ['Prospect to Quote', 'Manages the process of handling leads and turning them into quotes.']
+  Row 4: ['Record to Report', 'Focuses on financial reporting, tracking transactions, and providing insights for decision-making.']
+  Row 5: ['Administer to Operate', 'Manages the day-to-day administrative tasks and ensures smooth operations.']
+Slide 12:
+  Row 1: ['Category', 'Training Description']
+  Row 2: ['Project management', 'Oversees project financials and resources.']
+  Row 3: ['CRM', 'Manage customers and relationships.']
+  Row 4: ['Human Resources Management', 'Track employees and expenses.']
+  Row 5: ['Project management', 'Plan and track projects.']
+Slide 13:
+  Row 1: ['Category', 'Training Description']
+  Row 2: ['Methodology Training', 'Training on Methodology and Project Management concepts.']
+  Row 3: ['Solution Overview Training', 'Core Team Module Training prior to end-to-end testing.']
+  Row 4: ['User Acceptance Test training', 'Project team training prior to End-to-end testing includes all modules in scope.']
+Slide 14:
+  Row 1: ['Area', 'Description']
+  Row 2: ['Microsoft Product Licenses', 'Microsoft product licenses and/or software subscriptions will not be provided under this SOW. The customer is responsible for acquiring all necessary product licenses. ( Covered through Quisitive CSP)']
+  Row 3: ['Legacy Systems', 'Quisitive will not be responsible for supporting Customer legacy systems.']
+  Row 4: ['Integration with 3rd Party Software', 'Quisitive will not be responsible for integration with 3rd Party Software (not applicable to Dynamics ISVs) which are not part of the scope.']
+  Row 5: ['Requirements Gathering', 'Quisitive will analyze the requirements documented for processes identified as in scope. Any business process outside of the scope will not be analyzed as part of this proposal.']
+  Row 6: ['Documentation', 'Preparation of documentation about any existing process, previous standards, policies or existing guidelines is out of scope under this proposal.']
+  Row 7: ['Process Re-engineering/Process Mapping', 'Design of functional business components of the solution unless specifically included in the scope and delivered by Quisitive Consulting staff.']
+  Row 8: ['Adoption & Change Management', "Design or re-design of Customer's functional organization unless specifically included in the scope and delivered by Quisitive Consulting staff."]
+  Row 9: ['Global Solution Needs', 'Language implementations that are not part of the core product will not be implemented under this SOW.']
+  Row 10: ['Business Intelligence and Data Warehousing', 'Unless specifically detailed in this document, implementation and/or data replication to support business intelligence and data warehousing are not included in this proposal.']
+Slide 15:
+Slide 16:
+Slide 17:
+Slide 18:
+Slide 19:
+Slide 20:
+Slide 21:
+Slide 22:
+Slide 23:
+Slide 24:
+Slide 25:
+
+--- Extracting Images ---
+
+Extracted image 0 from slide 1 to pptx_extraction\images\image_0.png
+Extracted image 1 from slide 2 to pptx_extraction\images\image_1.png
+Extracted image 2 from slide 2 to pptx_extraction\images\image_2.png
+Extracted image 3 from slide 2 to pptx_extraction\images\image_3.png
+Extracted image 4 from slide 2 to pptx_extraction\images\image_4.png
+Extracted image 5 from slide 2 to pptx_extraction\images\image_5.png
+Extracted image 6 from slide 3 to pptx_extraction\images\image_6.png
+Extracted image 7 from slide 3 to pptx_extraction\images\image_7.png
+Extracted image 8 from slide 3 to pptx_extraction\images\image_8.png
+Extracted image 9 from slide 3 to pptx_extraction\images\image_9.png
+Extracted image 10 from slide 3 to pptx_extraction\images\image_10.png
+Extracted image 11 from slide 3 to pptx_extraction\images\image_11.png
+Extracted image 12 from slide 4 to pptx_extraction\images\image_12.png
+Extracted image 13 from slide 5 to pptx_extraction\images\image_13.png
+Extracted image 14 from slide 5 to pptx_extraction\images\image_14.png
+Extracted image 15 from slide 5 to pptx_extraction\images\image_15.png
+Extracted image 16 from slide 5 to pptx_extraction\images\image_16.png
+Extracted image 17 from slide 5 to pptx_extraction\images\image_17.png
+Extracted image 18 from slide 5 to pptx_extraction\images\image_18.png
+Extracted image 19 from slide 5 to pptx_extraction\images\image_19.png
+Extracted image 20 from slide 5 to pptx_extraction\images\image_20.png
+Extracted image 21 from slide 5 to pptx_extraction\images\image_21.png
+Extracted image 22 from slide 5 to pptx_extraction\images\image_22.png
+Extracted image 23 from slide 5 to pptx_extraction\images\image_23.png
+Extracted image 24 from slide 5 to pptx_extraction\images\image_24.png
+Extracted image 25 from slide 5 to pptx_extraction\images\image_25.png
+Extracted image 26 from slide 5 to pptx_extraction\images\image_26.png
+Extracted image 27 from slide 5 to pptx_extraction\images\image_27.png
+Extracted image 28 from slide 5 to pptx_extraction\images\image_28.png
+Extracted image 29 from slide 5 to pptx_extraction\images\image_29.png
+Extracted image 30 from slide 5 to pptx_extraction\images\image_30.png
+Extracted image 31 from slide 5 to pptx_extraction\images\image_31.png
+Extracted image 32 from slide 5 to pptx_extraction\images\image_32.png
+Extracted image 33 from slide 5 to pptx_extraction\images\image_33.png
+Extracted image 34 from slide 5 to pptx_extraction\images\image_34.png
+Extracted image 35 from slide 5 to pptx_extraction\images\image_35.png
+Extracted image 36 from slide 5 to pptx_extraction\images\image_36.png
+Extracted image 37 from slide 5 to pptx_extraction\images\image_37.png
+Extracted image 38 from slide 5 to pptx_extraction\images\image_38.png
+Extracted image 39 from slide 5 to pptx_extraction\images\image_39.png
+Extracted image 40 from slide 5 to pptx_extraction\images\image_40.png
+Extracted image 41 from slide 5 to pptx_extraction\images\image_41.png
+Extracted image 42 from slide 5 to pptx_extraction\images\image_42.png
+Extracted image 43 from slide 6 to pptx_extraction\images\image_43.png
+Extracted image 44 from slide 7 to pptx_extraction\images\image_44.png
+Extracted image 45 from slide 8 to pptx_extraction\images\image_45.png
+Extracted image 46 from slide 9 to pptx_extraction\images\image_46.png
+Extracted image 47 from slide 10 to pptx_extraction\images\image_47.png
+Extracted image 48 from slide 11 to pptx_extraction\images\image_48.png
+Extracted image 49 from slide 12 to pptx_extraction\images\image_49.png
+Extracted image 50 from slide 13 to pptx_extraction\images\image_50.png
+Extracted image 51 from slide 14 to pptx_extraction\images\image_51.png
+Extracted image 52 from slide 15 to pptx_extraction\images\image_52.png
+Extracted image 53 from slide 16 to pptx_extraction\images\image_53.png
+Extracted image 54 from slide 17 to pptx_extraction\images\image_54.png
+Extracted image 55 from slide 18 to pptx_extraction\images\image_55.png
+Extracted image 56 from slide 19 to pptx_extraction\images\image_56.png
+Extracted image 57 from slide 20 to pptx_extraction\images\image_57.png
+Extracted image 58 from slide 21 to pptx_extraction\images\image_58.png
+Extracted image 59 from slide 21 to pptx_extraction\images\image_59.png
+Extracted image 60 from slide 21 to pptx_extraction\images\image_60.png
+Extracted image 61 from slide 21 to pptx_extraction\images\image_61.png
+Extracted image 62 from slide 22 to pptx_extraction\images\image_62.png
+Extracted image 63 from slide 22 to pptx_extraction\images\image_63.png
+Extracted image 64 from slide 22 to pptx_extraction\images\image_64.png
+Extracted image 65 from slide 22 to pptx_extraction\images\image_65.png
+Extracted image 66 from slide 23 to pptx_extraction\images\image_66.png
+Extracted image 67 from slide 24 to pptx_extraction\images\image_67.png
+Extracted image 68 from slide 24 to pptx_extraction\images\image_68.png
+Extracted image 69 from slide 25 to pptx_extraction\images\image_69.png
+
+--- Extracting Slide Layouts ---
+
+Layout 1: First Page Layout
+Layout 2: Title Page Layout
+Layout 3: Paragraph Layout
+Layout 4: List Layout
+Layout 5: Table Layout
+Layout 6: Image Layout
+Layout 7: blue bg 1-column A
+Layout 8: curved 1-column
+Layout 9: curved no content
+Layout 10: 1-column + subtitle
+Layout 11: 1_First Page Layout
+Layout 12: 1_Title Page Layout
+Layout 13: 1_Paragraph Layout
+Layout 14: 1_List Layout
+Layout 15: 1_Table Layout
+Layout 16: 1_Image Layout
+
+Extraction Complete!
